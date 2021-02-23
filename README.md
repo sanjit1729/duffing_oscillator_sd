@@ -3,7 +3,7 @@ Python code and thorough documentation on solving the Duffing oscillator; this p
 
 The Duffing oscillator is a second order, nonlinear, chaotic oscillator. It will be solved, and include a brief discussion into the numerical method chosen.  The chaotic behaviour of this oscillator will also be discussed by showing plots and discussing stability and convergence of the solution.
 
-<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\kappa&space;\ddot{x}&space;&plus;\delta&space;{\dot{x}}&space;&plus;\alpha&space;x&plus;\beta&space;x^{3}=\gamma&space;\cos(\omega&space;t)" title="\LARGE \kappa \ddot{x} +\delta {\dot{x}} +\alpha x+\beta x^{3}=\gamma \cos(\omega t)" />
+<p align="center"><img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\kappa&space;\ddot{x}&space;&plus;\delta&space;{\dot{x}}&space;&plus;\alpha&space;x&plus;\beta&space;x^{3}=\gamma&space;\cos(\omega&space;t)" title="\LARGE \kappa \ddot{x} +\delta {\dot{x}} +\alpha x+\beta x^{3}=\gamma \cos(\omega t)" /></p>
 
 The Duffing oscillator, named after Georg Duffing (1861–1944), is represented by a second order differential equation. This equation has no exact analytic solution and therefore must be approximated using either perturbation theory or solved numerically. The Duffing oscillator is different from other oscillators due to it's restoring force, which is not proportional to it's extension distance (this refers to the x^3 term).
 
