@@ -1,5 +1,5 @@
 # Duffing Oscillator
-Python code and thorough documentation on solving the Duffing oscillator; this project was completed in 2017 as part of Computational Physics 2 at the University of Waterloo.
+Python code and thorough documentation on solving the Duffing oscillator; this project was completed in 2017 as part of Computational Physics 2 course at the University of Waterloo.
 
 The Duffing oscillator is a second order, nonlinear, chaotic oscillator. It will be solved, and include a brief discussion into the numerical method chosen.  The chaotic behaviour of this oscillator will also be discussed by showing plots and discussing stability and convergence of the solution.
 
