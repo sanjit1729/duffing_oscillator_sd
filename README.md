@@ -12,6 +12,4 @@ The Duffing oscillator, named after Georg Duffing (1861–1944), is represented 
 
 Through nonlinear analysis, it was determined that a trapezoidal method would be stable (and thus, suitable) for this equation. However, to ensure convergence we would have to take a step size of at least h^3. Only once it was determined we could find a stable, convergent method that is second order in time, we then implement numerical scheme for the Duffing oscillator. A Newton-Raphson method was also used to linearize the equation.
 
-<p align="center">
-  <img src="https://github.com/cekaufho/duffing-oscillator/blob/master/images/poincare-plot.png?raw=true" alt="Poincare plot"/>
-</p>
+![pageres](images/poincare-plot.png.png)
